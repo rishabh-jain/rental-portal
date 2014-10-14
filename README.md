@@ -7,4 +7,4 @@ Committers :
 Rishabh Jain
 Duke Arora
 Chhavi Mathur
-Swati Sharma
+Mayank Paul
