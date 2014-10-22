@@ -5,9 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+<link rel="stylesheet" href="styles/css/style.css">
+<style>
+<%@include file="../../styles/css/style.css" %>
+</style>
+<link href="http://fonts.googleapis.com/css?family=Terminal+Dosis" rel="stylesheet" type="text/css">
 </head>
 <body>
-This
-
+<jsp:include page="../commons/header.jsp"/>
+Login
 </body>
 </html>
